@@ -12,5 +12,5 @@ help_text = '''List of commands:
                                
 The files provided are in multiple qualities to download just open filein chrome
                                
-To report any Problems, Bugs, Suggestions go to @AsmSafone'''
+To report any Problems, Bugs, Suggestions go to @anime_hubon'''
 
